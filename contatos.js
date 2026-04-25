@@ -57,3 +57,12 @@ export async function deletarContato(id) {
 
   return true
 }
+const novoContato = {
+        nome: "Isabelle lourenço",
+        celular: "11 9 720204542",
+        foto: "https://img.freepik.com/psd-gratuitas/renderizacao-3d-do-estilo-de-cabelo-para-o-design-do-avatar_23-2151869121.jpg",
+        email: "lalala@yahoo.com.br",
+        endereco: "coitadolandia, 234",
+        cidade: "São Roque"
+    }
+    
